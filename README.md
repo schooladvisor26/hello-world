@@ -6,3 +6,4 @@ I like
 * 💻 computers
 * 📚 books
 * ⛪ church
+* I also like 🛹 skateboards
